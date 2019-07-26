@@ -18,5 +18,6 @@
     </orderEntry>
     <orderEntry type="library" name="commons-io-2.6" level="project" />
     <orderEntry type="library" name="mysql-connector-java-8.0.13" level="project" />
+    <orderEntry type="library" name="ashot-1.5.4" level="project" />
   </component>
 </module>
